@@ -1,2 +1,7 @@
 # _config.yml
-permalink: pretty  # Removes .html from URLs
+theme: jekyll-theme-minimal  # Default theme (or use remote_theme)
+permalink: /:title/
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-redirect-from
+  - jekyll-relative-links
