@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<!--
+  Editorial by HTML5 UP
+  html5up.net | @ajlkn
+-->
+<html>
+  <head>
+    <title>{{ page.title | default: "Vantaan Ulkokiipeilijät ry" }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <div class="inner">
+          <!-- Header (optional, include if shared across pages) -->
+          <header id="header">
+            <a href="{{ '/' | relative_url }}" class="logo">
+              <strong>Vantaan Ulkokiipeilijät</strong> ry
+            </a>
+            <ul class="icons">
+              <li><a href="https://www.instagram.com/vuk_ry/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+            </ul>
+          </header>
+
+          <!-- Unique content goes here -->
+          {{ content }}
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      {% include sidebar.html %}
+    </div>
+
+    <!-- Scripts -->
+    <script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/browser.min.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/breakpoints.min.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/util.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+  </body>
+</html>
