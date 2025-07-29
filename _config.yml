@@ -1,0 +1,3 @@
+# _config.yml
+theme: minima  # Default GitHub Pages theme
+permalink: pretty  # Removes .html from URLs
