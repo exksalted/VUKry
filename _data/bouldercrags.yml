@@ -1,1 +1,201 @@
+sipoonkorpi:
+  name: "Sipoonkorven Kansallispuisto"
+  url: "https://27crags.com/crags/sotunki"
+  image: "images/cragpics/sipoo.jpg"
+  premium: true
+  routes: "112"
+  grade_range: "4 - 8A+"
+  description: "Sipoonkorven Kansallispuisto on Vantaalla boulderoivan unelma. Laaja alue kauniin metsän ympäröimänä täynnä kiivettävää kiveä... Mitä muuta voisi paikalta toivoa?"
+  location: "Vantaa"
 
+mellunmaki:
+  name: "Mellunmäki"
+  url: "https://27crags.com/crags/mellunmaki-boulders"
+  image: "images/cragpics/mellu.jpg"
+  premium: true
+  routes: "85"
+  grade_range: "3 - 7C"
+  description: "Oi Mellunmäki... Mellunmäki on Vantaan parhaimmistoa. Täältä löytyy kaupungin isoimmat kivet ja useampi Suomenkin 'ensimmäiset greidissään' -luokan bouldereita, kuten Melankolia 7B+."
+  location: "Vantaa"
+
+hakunila:
+  name: "Hakunila"
+  url: "https://27crags.com/crags/hakunila-boulders"
+  image: "images/cragpics/hakunila.png"
+  premium: true
+  routes: "37"
+  grade_range: "4 - 7B+"
+  description: "Yksi Vantaan tunnetuimmista ja suosituimmista sijainneista aivan kehän vieressä. Hälinää riittää, mutta kiipeily laadullaan voittaa senkin. HUOM! Greidit on täällä tiukkoja!"
+  location: "Vantaa"
+
+aurinkomaki:
+  name: "Aurinkomäki"
+  url: "https://27crags.com/crags/aurinkomaki"
+  image: "images/cragpics/aurinkomaki.png"
+  premium: true
+  routes: "24"
+  grade_range: "5 - 7A"
+  description: "Aurinkomäki on suhteellisen hiljattain kehitetty sijainti Hakunilan paikkeilla. Kauniita korkeita seiniä, ja hyvälaatuisia reittejä. Kokeile!"
+  location: "Vantaa"
+
+kalkkivuori:
+  name: "Kalkkivuori"
+  url: "https://27crags.com/crags/kalkkivuori"
+  image: "images/cragpics/kalkkivuori.png"
+  premium: false
+  routes: "16"
+  grade_range: "3 - 7C"
+  description: "Kauniilla luonnonsuojelualueella sijaiseva Kalkkikallio on kaunis pieni cragi ilmaisella topolla. Paikalta löytyy boulderien lisäksi useampi Vantaan muutamista luolista!"
+  location: "Vantaa"
+
+synttarikallio:
+  name: "Synttärikallio"
+  url: "https://27crags.com/crags/synttarikallio"
+  image: "images/cragpics/synttari.png"
+  premium: true
+  routes: "12"
+  grade_range: "6A - 7B+"
+  description: "Pieni sijainti reittien määrän puolesta, mutta täältä löytyy aivan massiivisen hyviä ja vaikeita reittejä fotogeenisellä hänkillä. Nam!"
+  location: "Vantaa"
+
+  #vukryn juttuja
+
+  kuusikko:
+  name: "Kuusikko"
+  url: "https://27crags.com/crags/kuusikko"
+  image: "images/cragpics/kuusikko.jpg"
+  location: "Vantaa"
+  publish_date: "2024 heinäkuussa"
+  routes: "117"
+  grade_range: "3 - 6C+"
+  description: "Helposti saavutettava sijainti Itä-Vantaalla. Tiheästi pakattua kiivettävää! VUKry:n suurin kehitysprojekti."
+
+haltiavuori:
+  name: "Haltiavuori"
+  url: "https://27crags.com/crags/haltiavuori"
+  image: "images/cragpics/haltiavuori.png"
+  location: "Helsinki"
+  publish_date: "2023 kesäkuussa"
+  routes: "96"
+  grade_range: "3 - 7C"
+  description: "Paljon helppoa ja keskivaikeaa kiivettävää hyvillä poluilla ja kauniilla ympäröivällä metsällä. VUKry:n ensimmäinen cragi."
+
+ylasto_boulder:
+  name: "Ylästö Boulder"
+  url: "https://27crags.com/crags/ylasto-boulder"
+  image: "images/cragpics/ylasto.png"
+  location: "Vantaa"
+  publish_date: "2025 huhtikuussa"
+  routes: "72"
+  grade_range: "3 - 7B+"
+  description: "Klassikkokiipeilysijainti helposti saavutettavassa Ylästössä. Löytyy laajalti tekemistä aloittelijoista professionaaleihin."
+
+uusmaki:
+  name: "Uusmäki"
+  url: "https://27crags.com/crags/uusmaki"
+  image: "images/cragpics/uusmaki.png"
+  location: "Espoo"
+  publish_date: "2023 lokakuussa"
+  routes: "59"
+  grade_range: "3 - 6B+"
+  description: "Pari ok boulderia, muttei paljonkaan arvoinen paikka."
+
+hanskallio:
+  name: "Hanskallio"
+  url: "https://27crags.com/crags/hanskallio"
+  image: "images/cragpics/hanskallio.png"
+  location: "Vantaa"
+  publish_date: "2025 kesäkuussa"
+  routes: "58"
+  grade_range: "3 - 7A+"
+  description: "Upeaa kivenlaatua, ja etäisyyteensä nähden helposti saavutettavissa!"
+
+ylasto_suburbia:
+  name: "Ylästö Suburbia"
+  url: "https://27crags.com/crags/hakakallio"
+  image: "images/cragpics/hakakallio.png"
+  location: "Vantaa"
+  publish_date: "2024 maaliskuussa"
+  routes: "44"
+  grade_range: "3 - 6B+"
+  description: "Täydellinen sijainti ensikerta boulderoijalle. Muhkeita otteita ystävällisellä släbillä. Hyvät ländingit ja matalat seinät. Täältä ei kokenut kiipeilijä saa mitään irti, mutta aloitteleva ystävä on hyvä käyttää täällä!"
+
+aviapolis:
+  name: "Aviapolis"
+  url: "https://27crags.com/crags/aviapolis"
+  image: "images/cragpics/aviapolis.png"
+  location: "Vantaa"
+  publish_date: "2024 elokuussa"
+  routes: "43"
+  grade_range: "3 - 7A"
+  description: "Erittäin helposti saavutettavissa oleva sijainti aivan junaradan varrella. Tänne kävelee Aviapoliksen asemalta kahdessa minuutissa. Kiipeilyn laatu on mitä on, mutta muutama laadukaskin reitti täältä löytyy!"
+
+helsinki_outlet:
+  name: "Helsinki Outlet"
+  url: "https://27crags.com/crags/helsinki-outlet"
+  image: "images/cragpics/helsinkioutlet.png"
+  location: "Helsinki"
+  publish_date: "2025 kesäkuussa"
+  routes: "26"
+  grade_range: "3+ - 7A"
+  description: "Mukavaa kiipeilyä Helsingin ja Vantaan rajalla!"
+
+osterbacken:
+  name: "Österbacken"
+  url: "https://27crags.com/crags/osterbacken"
+  image: "images/cragpics/osterbacken.png"
+  location: "Vantaa"
+  publish_date: "2024 elokuussa"
+  routes: "19"
+  grade_range: "3 - 6C+"
+  description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää."
+
+vaarala:
+  name: "Vaarala"
+  url: "https://27crags.com/crags/vaarala"
+  image: "images/cragpics/vaarala.png"
+  location: "Vantaa"
+  publish_date: "2025 heinäkuussa"
+  routes: "15"
+  grade_range: "5 - 7A"
+  description: "Paikka joka on parempi kuin miltä näyttää. Kokeilkaa paikan klassikko 7A släbi, 'The Very Big and Very Small'."
+
+kuussilta:
+  name: "Kuussilta"
+  url: "https://27crags.com/crags/vaarala-koivumaentie"
+  image: "images/cragpics/kuussilta.png"
+  location: "Vantaa"
+  publish_date: "2025 heinäkuussa"
+  routes: "14"
+  grade_range: "3 - 6C+"
+  description: "Nätti spotti Vaaralan lähettyvillä. Klassikkokiipeilyä. Erittäin umpeen kasvanut, mutta paikalle avattiin uusia sektoreita. Projekteja riittää!"
+
+martinkylan:
+  name: "Martinkylän Högberg"
+  url: "https://27crags.com/crags/vantaanlaakso"
+  image: "images/cragpics/vantaanlaakso.png"
+  location: "Vantaa"
+  publish_date: "2025 toukokuussa"
+  routes: "11"
+  grade_range: "3 - 7C+"
+  description: "Klassikkosijainti muutamalla helpolla ja muutamalla erittäin vaikealla reitillä."
+
+rajatorppa:
+  name: "Rajatorpantie"
+  url: "https://27crags.com/crags/rajatorpantie"
+  image: "images/cragpics/rajatorppa.png"
+  location: "Vantaa"
+  publish_date: "2024 heinäkuussa"
+  routes: "10"
+  grade_range: "3 - 6C"
+  description: "Tien vieressä sijaitseva yksittäinen kivi yhdellä nätillä 6C boulderilla, ja muutamalla kiipeämättömällä projektilla."
+
+ukonhaudanniemi:
+  name: "Ukonhaudanniemi"
+  url: "https://27crags.com/crags/laukonselka-dws"
+  image: "images/cragpics/ukonhauta.png"
+  location: "Ristiina"
+  publish_date: "2023 heinäkuussa"
+  routes: "7"
+  grade_range: "3+ - 6A+"
+  description: "Pieni mukava DWS seinä. Kehitetty mökkireissulla, keskellä ei mitään."
