@@ -64,6 +64,7 @@ synttarikallio:
   name: "Kuusikko"
   url: "https://27crags.com/crags/kuusikko"
   image: "images/cragpics/kuusikko.jpg"
+  premium: true
   location: "Vantaa"
   publish_date: "2024 heinäkuussa"
   routes: "117"
@@ -74,6 +75,7 @@ haltiavuori:
   name: "Haltiavuori"
   url: "https://27crags.com/crags/haltiavuori"
   image: "images/cragpics/haltiavuori.png"
+  premium: true
   location: "Helsinki"
   publish_date: "2023 kesäkuussa"
   routes: "96"
@@ -83,6 +85,7 @@ haltiavuori:
 ylasto_boulder:
   name: "Ylästö Boulder"
   url: "https://27crags.com/crags/ylasto-boulder"
+  premium: true
   image: "images/cragpics/ylasto.png"
   location: "Vantaa"
   publish_date: "2025 huhtikuussa"
@@ -93,6 +96,7 @@ ylasto_boulder:
 uusmaki:
   name: "Uusmäki"
   url: "https://27crags.com/crags/uusmaki"
+  premium: true
   image: "images/cragpics/uusmaki.png"
   location: "Espoo"
   publish_date: "2023 lokakuussa"
@@ -103,6 +107,7 @@ uusmaki:
 hanskallio:
   name: "Hanskallio"
   url: "https://27crags.com/crags/hanskallio"
+  premium: true
   image: "images/cragpics/hanskallio.png"
   location: "Vantaa"
   publish_date: "2025 kesäkuussa"
@@ -113,6 +118,7 @@ hanskallio:
 ylasto_suburbia:
   name: "Ylästö Suburbia"
   url: "https://27crags.com/crags/hakakallio"
+  premium: true
   image: "images/cragpics/hakakallio.png"
   location: "Vantaa"
   publish_date: "2024 maaliskuussa"
@@ -123,6 +129,7 @@ ylasto_suburbia:
 aviapolis:
   name: "Aviapolis"
   url: "https://27crags.com/crags/aviapolis"
+  premium: true
   image: "images/cragpics/aviapolis.png"
   location: "Vantaa"
   publish_date: "2024 elokuussa"
@@ -133,6 +140,7 @@ aviapolis:
 helsinki_outlet:
   name: "Helsinki Outlet"
   url: "https://27crags.com/crags/helsinki-outlet"
+  premium: true
   image: "images/cragpics/helsinkioutlet.png"
   location: "Helsinki"
   publish_date: "2025 kesäkuussa"
@@ -143,6 +151,7 @@ helsinki_outlet:
 osterbacken:
   name: "Österbacken"
   url: "https://27crags.com/crags/osterbacken"
+  premium: true
   image: "images/cragpics/osterbacken.png"
   location: "Vantaa"
   publish_date: "2024 elokuussa"
@@ -153,6 +162,7 @@ osterbacken:
 palokalliot:
   name: "Palokalliot"
   url: "https://27crags.com/crags/palokalliot"
+  premium: true
   image: "images/cragpics/palokalliot.png"
   location: "Vantaa"
   publish_date: "2025 Elokuussa"
@@ -163,6 +173,7 @@ palokalliot:
 vaarala:
   name: "Vaarala"
   url: "https://27crags.com/crags/vaarala"
+  premium: true
   image: "images/cragpics/vaarala.png"
   location: "Vantaa"
   publish_date: "2025 heinäkuussa"
@@ -173,6 +184,7 @@ vaarala:
 kuussilta:
   name: "Kuussilta"
   url: "https://27crags.com/crags/vaarala-koivumaentie"
+  premium: true
   image: "images/cragpics/kuussilta.png"
   location: "Vantaa"
   publish_date: "2025 heinäkuussa"
@@ -183,6 +195,7 @@ kuussilta:
 martinkylan:
   name: "Martinkylän Högberg"
   url: "https://27crags.com/crags/vantaanlaakso"
+  premium: true
   image: "images/cragpics/vantaanlaakso.png"
   location: "Vantaa"
   publish_date: "2025 toukokuussa"
@@ -193,6 +206,7 @@ martinkylan:
 rajatorppa:
   name: "Rajatorpantie"
   url: "https://27crags.com/crags/rajatorpantie"
+  premium: true
   image: "images/cragpics/rajatorppa.png"
   location: "Vantaa"
   publish_date: "2024 heinäkuussa"
@@ -203,6 +217,7 @@ rajatorppa:
 ukonhaudanniemi:
   name: "Ukonhaudanniemi"
   url: "https://27crags.com/crags/laukonselka-dws"
+  premium: true
   image: "images/cragpics/ukonhauta.png"
   location: "Ristiina"
   publish_date: "2023 heinäkuussa"
