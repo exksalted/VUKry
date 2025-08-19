@@ -150,6 +150,16 @@ osterbacken:
   grade_range: "3 - 6C+"
   description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää."
 
+palokalliot:
+  name: "Palokalliot"
+  url: "https://27crags.com/crags/palokalliot"
+  image: "images/cragpics/palokalliot.png"
+  location: "Vantaa"
+  publish_date: "2025 Elokuussa"
+  routes: "17"
+  grade_range: "3 - 6C+"
+  description: "Upea sijainti keskellä Sipoonkorpea. Näiden pienien kallioiden seinille kätkeytyy useampikin laadukas reitti!"
+
 vaarala:
   name: "Vaarala"
   url: "https://27crags.com/crags/vaarala"
