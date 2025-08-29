@@ -1,3 +1,57 @@
+#Vantaa Köysittelyt
+rollarit:
+  name: "Rollarit"
+  url: "https://27crags.com/crags/rollarit"
+  image: "images/cragpics/rollarit.jpg"
+  premium: true
+  sport_routes: "23"
+  sport_grade_range: "4 - 7a"
+  trad_routes: "20"
+  trad_grade_range: "3 - 7a"
+  description: "Aivan kehän vieressä sijaitseva, erittäin suosittu köysikiipeilysijainti. Sijaintinsa takia äänekäs, mutta kivenlaatu on upean tuntuista liusketta!"
+  location: "Vantaa"
+  publish_date: ""
+
+kaarmekallio:
+  name: "Käärmekallio"
+  url: "https://27crags.com/crags/kaarmekallio"
+  image: "images/cragpics/kaarme.jpg"
+  premium: true
+  sport_routes: "18"
+  sport_grade_range: "3 - 5+"
+  trad_routes: "6"
+  trad_grade_range: "3+ - 4+"
+  description: "Täydellinen sijainti aloittelevalle köysikiipeilijälle!"
+  location: "Vantaa"
+  publish_date: ""
+
+tussinkoski:
+  name: "Tussinkoski"
+  url: "https://27crags.com/crags/tussinkoski"
+  image: "images/cragpics/tussi.jpg"
+  premium: true
+  sport_routes: "15"
+  sport_grade_range: "4 - 7b"
+  trad_routes: "9"
+  trad_grade_range: "4+ - 7a"
+  description: "PK-seudun paras köysikiipeilysijainti. Köysikiipeilyn standardein tämä on matalahko seinä, mutta kiipeilyn laadussa ei ole valittamista."
+  location: "Vantaa"
+  publish_date: ""
+
+  kuusijarven_slabi:
+  name: "Kuusijärven Släbi"
+  url: "https://27crags.com/crags/kuusijarven-slabi"
+  image: "images/cragpics/kuusijarvi.png"
+  premium: false
+  trad_routes: "8"
+  trad_grade_range: "3+ - 4+"
+  description: "Sillan alta löytyvä suuri släbi, jossa trädikiipeilijä pääsee harjoittelemaan taitojansa."
+  location: "Vantaa"
+  publish_date: ""
+
+
+#Vantaa Boulder:
+
 sipoonkorpi:
   name: "Sipoonkorven Kansallispuisto"
   url: "https://27crags.com/crags/sotunki"
@@ -5,6 +59,8 @@ sipoonkorpi:
   premium: true
   boulder_routes: "125"
   boulder_grade_range: "4 - 8A+"
+  trad_routes: "2"
+  trad_grade_range: "5+ & 6b"
   description: "Sipoonkorven Kansallispuisto on Vantaalla boulderoivan unelma. Laaja alue kauniin metsän ympäröimänä täynnä kiivettävää kiveä... Mitä muuta voisi paikalta toivoa?"
   location: "Vantaa"
   publish_date: ""
@@ -230,3 +286,14 @@ ukonhaudanniemi:
   dws_routes: "7"
   dws_grade_range: "3+ - 6A+"
   description: "Pieni mukava DWS seinä. Kehitetty mökkireissulla, keskellä ei mitään."
+
+  kyrkberget:
+  name: "Kyrkberget"
+  url: "https://27crags.com/crags/kyrkberget"
+  image: "images/cragpics/kyrkberget.png"
+  premium: false
+  trad_routes: "5"
+  trad_grade_range: "6a - 6b+"
+  description: "Kyrkbergetistä löytyy muutama mukava keskivaikea reitti trädikiipeilijälle. Paikalla myös kivisti bouldattavaa!"
+  location: "Vantaa"
+  publish_date: ""
