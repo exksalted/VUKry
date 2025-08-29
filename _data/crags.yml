@@ -38,7 +38,7 @@ tussinkoski:
   location: "Vantaa"
   publish_date: ""
 
-  kuusijarven_slabi:
+kuusijarven_slabi:
   name: "Kuusijärven Släbi"
   url: "https://27crags.com/crags/kuusijarven-slabi"
   image: "images/cragpics/kuusijarvi.png"
@@ -287,7 +287,7 @@ ukonhaudanniemi:
   dws_grade_range: "3+ - 6A+"
   description: "Pieni mukava DWS seinä. Kehitetty mökkireissulla, keskellä ei mitään."
 
-  kyrkberget:
+kyrkberget:
   name: "Kyrkberget"
   url: "https://27crags.com/crags/kyrkberget"
   image: "images/cragpics/kyrkberget.png"
