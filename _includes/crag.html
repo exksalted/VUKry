@@ -9,19 +9,19 @@
   {% if include.context == "boulder" %}
     <p>
       {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
-      {{ crag.routes }} Boulder reittiä<br>
+      {{ crag.boulder_routes }} Boulder reittiä<br>
       Grade {{ crag.grade_range }}
     </p>
   {% elsif include.context == "trad" %}
     <p>
       {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
-      {{ crag.routes }} Trad reittiä<br>
+      {{ crag.trad_routes }} Trad reittiä<br>
       Grade {{ crag.grade_range }}
     </p>
   {% elsif include.context == "sport" %}
     <p>
       {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
-      {{ crag.routes }} Sport reittiä<br>
+      {{ crag.sport_routes }} Sport reittiä<br>
       Grade {{ crag.grade_range }}
     </p>
   {% elsif include.context == "vukryboulder" %}
@@ -30,7 +30,7 @@
       {% if crag.publish_date %}Julkaistu {{ crag.publish_date }}{% endif %}
     </p>
     <p>
-      {{ crag.routes }} Boulder reittiä<br>
+      {{ crag.boulder_routes }} Boulder reittiä<br>
       Grade {{ crag.grade_range }}
     </p>
   {% elsif include.context == "vukrydws" %}
@@ -39,7 +39,7 @@
       {% if crag.publish_date %}Julkaistu {{ crag.publish_date }}{% endif %}
     </p>
     <p>
-      {{ crag.routes }} DWS reittiä<br>
+      {{ crag.dws_routes }} DWS reittiä<br>
       Grade {{ crag.grade_range }}
     </p>
   {% endif %}
