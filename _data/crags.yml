@@ -21,7 +21,7 @@ kaarmekallio:
   sport_grade_range: "3 - 5+"
   trad_routes: "6"
   trad_grade_range: "3+ - 4+"
-  description: "Täydellinen sijainti aloittelevalle köysikiipeilijälle!"
+  description: "Täydellinen sijainti aloittelevalle köysikiipeilijälle! Matalat seinät, erittäin kiltillä määrällä positiivista kulmaa."
   location: "Vantaa"
   publish_date: ""
 
@@ -45,7 +45,7 @@ kuusijarven_slabi:
   premium: false
   trad_routes: "8"
   trad_grade_range: "3+ - 4+"
-  description: "Sillan alta löytyvä suuri släbi, jossa trädikiipeilijä pääsee harjoittelemaan taitojansa."
+  description: "Sillan alta löytyvä suuri släbi, jossa trädikiipeilijä pääsee harjoittelemaan taitojansa. Vierestä löytyy useampi hyvä kiipeilysijainti. Kokeile matkalla jonnekin?"
   location: "Vantaa"
   publish_date: ""
 
@@ -72,7 +72,7 @@ mellunmaki:
   premium: true
   boulder_routes: "83"
   boulder_grade_range: "3 - 7C"
-  description: "Oi Mellunmäki... Mellunmäki on Vantaan parhaimmistoa. Täältä löytyy kaupungin isoimmat kivet ja eräs Suomen 'ensimmäiset greidissään' -luokan boulderi, Melankolia 7B+."
+  description: "Mellunmäki on Vantaan parhaimmistoa. Täältä löytyy kaupungin isoimmat kivet, laajalti tyylejä ja useampi absoluuttinen must-climb klassikkoboulderi."
   location: "Vantaa"
   publish_date: ""
 
@@ -94,7 +94,7 @@ aurinkomaki:
   premium: true
   boulder_routes: "24"
   boulder_grade_range: "5+ - 7A"
-  description: "Aurinkomäki on suhteellisen hiljattain kehitetty sijainti Hakunilan paikkeilla. Kauniita korkeita seiniä, ja hyvälaatuisia reittejä. Kokeile!"
+  description: "Aurinkomäki on suhteellisen hiljattain kehitetty sijainti Hakunilan paikkeilla. Kauniita korkeita seiniä ja hyvälaatuisia reittejä. Kokeile!"
   location: "Vantaa"
   publish_date: ""
 
@@ -105,7 +105,7 @@ kalkkivuori:
   premium: false
   boulder_routes: "16"
   boulder_grade_range: "3 - 7C"
-  description: "Kauniilla luonnonsuojelualueella sijaiseva Kalkkikallio on kaunis pieni cragi ilmaisella topolla. Paikalta löytyy boulderien lisäksi useampi Vantaan muutamista luolista!"
+  description: "Kauniilla luonnonsuojelualueella sijaiseva Kalkkikallio on kaunis pieni cragi ilmaisella topolla. Paikalta löytyy boulderien lisäksi useampi luola!"
   location: "Vantaa"
   publish_date: ""
 
@@ -131,7 +131,7 @@ kuusikko:
   publish_date: "2024 heinäkuussa"
   boulder_routes: "117"
   boulder_grade_range: "3 - 6C+"
-  description: "Helposti saavutettava sijainti Itä-Vantaalla. Tiheästi pakattua kiivettävää! VUKry:n suurin kehitysprojekti."
+  description: "Helposti saavutettava sijainti Itä-Vantaalla. Tiheästi pakattua boulderoitavaa ja pari erittäin laadukasta linjaa! VUK ry:n suurin kehitysprojekti."
 
 haltiavuori:
   name: "Haltiavuori"
@@ -153,7 +153,7 @@ ylasto_boulder:
   publish_date: "2025 huhtikuussa"
   boulder_routes: "72"
   boulder_grade_range: "3 - 7B+"
-  description: "Klassikkokiipeilysijainti helposti saavutettavassa Ylästössä. Löytyy laajalti tekemistä aloittelijoista professionaaleihin."
+  description: "Klassikkokiipeilysijainti helposti saavutettavassa Ylästössä. Löytyy laajalti tekemistä aloittelijoista professionaaleihin. Kokeile erityisesti Voodoo-sektori!"
 
 uusmaki:
   name: "Uusmäki"
@@ -175,7 +175,7 @@ hanskallio:
   publish_date: "2025 kesäkuussa"
   boulder_routes: "58"
   boulder_grade_range: "3 - 7A+"
-  description: "Upeaa kivenlaatua, ja etäisyyteensä nähden helposti saavutettavissa. Laajalti kiipeilytyylejä ja tekemistä löytyy kaikentasoisille!"
+  description: "Upeaa kivenlaatua ja etäisyyteensä nähden helposti saavutettavissa. Laajalti kiipeilytyylejä ja tekemistä löytyy kaikentasoisille!"
 
 ylasto_suburbia:
   name: "Ylästö Suburbia"
@@ -219,7 +219,7 @@ osterbacken:
   publish_date: "2024 elokuussa"
   boulder_routes: "19"
   boulder_grade_range: "3 - 6C+"
-  description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää."
+  description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää. Jos hermoja riittää, on cragi visiitin arvoinen"
 
 palokalliot:
   name: "Palokalliot"
@@ -241,7 +241,7 @@ vaarala:
   publish_date: "2025 heinäkuussa"
   boulder_routes: "15"
   boulder_grade_range: "5 - 7A"
-  description: "Paikka joka on parempi kuin miltä näyttää. Kokeilkaa paikan klassikko 7A släbi, 'The Very Big and Very Small'."
+  description: "Paikka joka on parempi kuin miltä näyttää. Korkeita seiniä! Kokeilkaa paikan klassikko 7A släbi, 'The Very Big and Very Small'."
 
 kuussilta:
   name: "Kuussilta"
@@ -263,7 +263,7 @@ martinkylan:
   publish_date: "2025 toukokuussa"
   boulder_routes: "11"
   boulder_grade_range: "3 - 7C+"
-  description: "Klassikkosijainti muutamalla helpolla ja muutamalla erittäin vaikealla reitillä."
+  description: "Klassikkosijainti muutamalla helpolla ja muutamalla erittäin vaikealla reitillä. Kiipeä Akita, 7C+!"
 
 rajatorppa:
   name: "Rajatorpantie"
@@ -294,6 +294,6 @@ kyrkberget:
   premium: false
   trad_routes: "5"
   trad_grade_range: "6a - 6b+"
-  description: "Kyrkbergetistä löytyy muutama mukava keskivaikea reitti trädikiipeilijälle. Paikalla myös kivisti bouldattavaa!"
+  description: "Kyrkbergetistä löytyy hirmuisesti mielenkiintoista boulderoitavaa ja muutama tradireitti niistä pitäville. Ei kun vain matkaan!"
   location: "Vantaa"
   publish_date: ""
