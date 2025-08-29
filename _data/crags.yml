@@ -142,7 +142,7 @@ haltiavuori:
   publish_date: "2023 kesäkuussa"
   boulder_routes: "96"
   boulder_grade_range: "3 - 7C"
-  description: "Paljon helppoa ja keskivaikeaa kiivettävää hyvillä poluilla ja kauniilla ympäröivällä metsällä. VUKry:n ensimmäinen cragi. Myöhemmin lisätty läheinen ilmainen kivi parilla vaikealla seiskalla höystettynä!"
+  description: "Paljon helppoa ja keskivaikeaa kiivettävää hyvillä poluilla ja kauniilla ympäröivällä metsällä. VUKry:n ensimmäinen cragi. Myöhemmin lisätty läheinen sektori vaikeine reitteineen!"
 
 ylasto_boulder:
   name: "Ylästö Boulder"
@@ -186,7 +186,7 @@ ylasto_suburbia:
   publish_date: "2024 maaliskuussa"
   boulder_routes: "45"
   boulder_grade_range: "3 - 6B+"
-  description: "Täydellinen sijainti ensikerran ulkoboulderoijalle. Muhkeita otteita ystävällisellä släbillä. Hyvät ländingit ja matalat seinät. Täältä ei kokenut kiipeilijä saa mitään irti, mutta aloitteleva ystävä on hyvä käyttää täällä!"
+  description: "Täydellinen sijainti ensikerran ulkoboulderoijalle. Muhkeita otteita ystävällisellä släbillä. Täältä ei kokenut kiipeilijä saa mitään irti, mutta aloitteleva ystävä on hyvä käyttää täällä!"
 
 aviapolis:
   name: "Aviapolis"
@@ -197,7 +197,7 @@ aviapolis:
   publish_date: "2024 elokuussa"
   boulder_routes: "43"
   boulder_grade_range: "3 - 7A"
-  description: "Erittäin helposti saavutettavissa oleva sijainti aivan junaradan varrella. Tänne kävelee Aviapoliksen asemalta kahdessa minuutissa. Kiipeilyn laatu on mitä on, mutta muutama laadukaskin reitti täältä löytyy!"
+  description: "Erittäin helposti saavutettavissa oleva sijainti aivan junaradan varrella. Tänne kävelee Aviapoliksen asemalta kahdessa minuutissa. Muutama laadukaskin reitti täältä löytyy!"
 
 helsinki_outlet:
   name: "Helsinki Outlet"
@@ -208,7 +208,7 @@ helsinki_outlet:
   publish_date: "2025 kesäkuussa"
   boulder_routes: "26"
   boulder_grade_range: "3+ - 7A"
-  description: "Mukavaa kiipeilyä Helsingin ja Vantaan rajalla! Pieni cragi, mutta Outlet-murikka ja Laikkujäkälä ovat ehdottomasti visiitin arvoisia. Semisti vielä selkeitä kiivettäviä linjoja."
+  description: "Mukavaa kiipeilyä Helsingin ja Vantaan rajalla! Pieni cragi, mutta Outlet-murikka ja Laikkujäkälä ovat ehdottomasti visiitin arvoisia. Jäljellä vielä selkeitä kiivettäviä linjoja."
 
 osterbacken:
   name: "Österbacken"
@@ -219,7 +219,7 @@ osterbacken:
   publish_date: "2024 elokuussa"
   boulder_routes: "19"
   boulder_grade_range: "3 - 6C+"
-  description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää. Jos hermoja riittää, on cragi visiitin arvoinen"
+  description: "Aivan Vantaan länsireunalla sijaitseva vanha, historiallinen louhos, josta löytyy kaunista ja korkeaa kiivettävää. Jos hermoja riittää, on cragi käynnin arvoinen!"
 
 palokalliot:
   name: "Palokalliot"
@@ -263,7 +263,7 @@ martinkylan:
   publish_date: "2025 toukokuussa"
   boulder_routes: "11"
   boulder_grade_range: "3 - 7C+"
-  description: "Klassikkosijainti muutamalla helpolla ja muutamalla erittäin vaikealla reitillä. Kiipeä Akita, 7C+!"
+  description: "Klassikkosijainti muutamalla helpolla ja muutamalla erittäin vaikealla reitillä. Paikalla myös useampi laadukkaan näköinen kiipeämätön linja. Kiipeä Akita, 7C+!"
 
 rajatorppa:
   name: "Rajatorpantie"
@@ -274,7 +274,7 @@ rajatorppa:
   publish_date: "2024 heinäkuussa"
   boulder_routes: "10"
   boulder_grade_range: "3 - 6C"
-  description: "Tien vieressä sijaitseva yksittäinen kivi yhdellä nätillä 6C boulderilla, ja muutamalla kiipeämättömällä projektilla."
+  description: "Tien vieressä sijaitseva yksittäinen kivi yhdellä nätillä 6C boulderilla, ja muutamalla kiipeämättömällä projektilla. Käy kokeilemassa!"
 
 ukonhaudanniemi:
   name: "Ukonhaudanniemi"
@@ -285,7 +285,7 @@ ukonhaudanniemi:
   publish_date: "2023 heinäkuussa"
   dws_routes: "7"
   dws_grade_range: "3+ - 6A+"
-  description: "Pieni mukava DWS seinä. Kehitetty mökkireissulla, keskellä ei mitään."
+  description: "Pieni mukava DWS seinä. Kehitetty mökkireissulla keskellä ei mitään. Jos satut olemaan Ristiinan holleilla ja keinot löytyy päästä tänne, niin miksipä ei!"
 
 kyrkberget:
   name: "Kyrkberget"
