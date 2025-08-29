@@ -15,34 +15,8 @@ title: Sport-kiipeily Vantaalla
       <h2>Sport-kiipeilysijainnit Vantaalla:</h2>
    </header>
    <div class="posts">
-      <article>
-         <a href="https://27crags.com/crags/rollarit" class="image"><img src="{{ 'images/cragpics/rollarit.jpg' | relative_url }}" alt="" /></a>
-         <h3>Rollarit</h3>
-         <p>Premium topo<br>23 Sport reittiä, grade 4 - 7a</p>
-         <p>Aivan kehän vieressä sijaitseva, erittäin suosittu köysikiipeilysijainti. Sijaintinsa takia äänekäs, mutta kivenlaatu on upean tuntuista liusketta!</p>
-         <ul class="actions">
-            <li><a href="https://27crags.com/crags/rollarit" class="button">Lue lisää!</a></li>
-         </ul>
-      </article>
-      <article>
-         <a href="https://27crags.com/crags/kaarmekallio" class="image"><img src="{{ 'images/cragpics/kaarme.jpg' | relative_url }}" alt="" /></a>
-         <h3>Käärmekallio</h3>
-         <p>Premium topo<br>18 Sport reittiä, grade 3 - 5+</p>
-         <p>Täydellinen sijainti aloittelevalle köysikiipeilijälle!</p>
-         <br>
-         <br>
-         <ul class="actions">
-            <li><a href="https://27crags.com/crags/kaarmekallio" class="button">Lue lisää!</a></li>
-         </ul>
-      </article>
-      <article>
-         <a href="https://27crags.com/crags/tussinkoski" class="image"><img src="{{ 'images/cragpics/tussi.jpg' | relative_url }}" alt="" /></a>
-         <h3>Tussinkoski</h3>
-         <p>Premium topo<br>15 Sport reittiä, grade 4 - 7b</p>
-         <p>PK-seudun paras köysikiipeilysijainti. Köysikiipeilyn standardein tämä on matalahko seinä, mutta kiipeilyn laadussa ei ole valittamista.</p>
-         <ul class="actions">
-            <li><a href="https://27crags.com/crags/tussinkoski" class="button">Lue lisää!</a></li>
-         </ul>
-      </article>
+      {% include crag.html id="rollarit" context="sport" %}
+      {% include crag.html id="kaarmekallio" context="sport" %}
+      {% include crag.html id="tussinkoski" context="sport" %}
    </div>
 </section>

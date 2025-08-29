@@ -1,0 +1,53 @@
+{% assign crag = site.data.crags[include.id] %}
+<article>
+  <a href="{{ crag.url }}" class="image">
+    <img src="{{ crag.image | relative_url }}" alt="" />
+  </a>
+  <h3>{{ crag.name }}</h3>
+  
+  <!-- Context-aware rendering -->
+  {% if include.context == "boulder" %}
+    <p>
+      {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
+      {{ crag.boulder_routes }} Boulder reittiä<br>
+      Grade {{ crag.boulder_grade_range }}
+    </p>
+  {% elsif include.context == "trad" %}
+    <p>
+      {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
+      {{ crag.trad_routes }} Trad reittiä<br>
+      Grade {{ crag.trad_grade_range }}
+    </p>
+  {% elsif include.context == "sport" %}
+    <p>
+      {% if crag.premium %}Premium topo{% else %}Ilmainen topo{% endif %}<br>
+      {{ crag.sport_routes }} Sport reittiä<br>
+      Grade {{ crag.sport_grade_range }}
+    </p>
+  {% elsif include.context == "index" %}
+  {% elsif include.context == "vukryboulder" %}
+    <p>
+      {{ crag.location }}<br>
+      {% if crag.publish_date %}Julkaistu {{ crag.publish_date }}{% endif %}
+    </p>
+    <p>
+      {{ crag.boulder_routes }} Boulder reittiä<br>
+      Grade {{ crag.boulder_grade_range }}
+    </p>
+  {% elsif include.context == "vukrydws" %}
+    <p>
+      {{ crag.location }}<br>
+      {% if crag.publish_date %}Julkaistu {{ crag.publish_date }}{% endif %}
+    </p>
+    <p>
+      {{ crag.dws_routes }} DWS reittiä<br>
+      Grade {{ crag.dws_grade_range }}
+    </p>
+  {% endif %}
+  
+  <p>{{ crag.description }}</p>
+  
+  <ul class="actions">
+    <li><a href="{{ crag.url }}" class="button">Lue lisää!</a></li>
+  </ul>
+</article>
