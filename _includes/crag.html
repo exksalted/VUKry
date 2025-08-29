@@ -24,6 +24,7 @@
       {{ crag.sport_routes }} Sport reittiä<br>
       Grade {{ crag.sport_grade_range }}
     </p>
+  {% elsif include.context == "index" %}
   {% elsif include.context == "vukryboulder" %}
     <p>
       {{ crag.location }}<br>
