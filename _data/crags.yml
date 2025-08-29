@@ -7,6 +7,7 @@ sipoonkorpi:
   grade_range: "4 - 8A+"
   description: "Sipoonkorven Kansallispuisto on Vantaalla boulderoivan unelma. Laaja alue kauniin metsän ympäröimänä täynnä kiivettävää kiveä... Mitä muuta voisi paikalta toivoa?"
   location: "Vantaa"
+  publish_date: ""
 
 mellunmaki:
   name: "Mellunmäki"
@@ -17,6 +18,7 @@ mellunmaki:
   grade_range: "3 - 7C"
   description: "Oi Mellunmäki... Mellunmäki on Vantaan parhaimmistoa. Täältä löytyy kaupungin isoimmat kivet ja eräs Suomen 'ensimmäiset greidissään' -luokan boulderi, Melankolia 7B+."
   location: "Vantaa"
+  publish_date: ""
 
 hakunila:
   name: "Hakunila"
@@ -27,6 +29,7 @@ hakunila:
   grade_range: "4 - 7B+"
   description: "Yksi Vantaan tunnetuimmista ja suosituimmista sijainneista aivan kehän vieressä. Hälinää riittää, mutta kiipeilyn laatu kattaa meluhaitan. Isoja kiviä!"
   location: "Vantaa"
+  publish_date: ""
 
 aurinkomaki:
   name: "Aurinkomäki"
@@ -37,6 +40,7 @@ aurinkomaki:
   grade_range: "5+ - 7A"
   description: "Aurinkomäki on suhteellisen hiljattain kehitetty sijainti Hakunilan paikkeilla. Kauniita korkeita seiniä, ja hyvälaatuisia reittejä. Kokeile!"
   location: "Vantaa"
+  publish_date: ""
 
 kalkkivuori:
   name: "Kalkkivuori"
@@ -47,6 +51,7 @@ kalkkivuori:
   grade_range: "3 - 7C"
   description: "Kauniilla luonnonsuojelualueella sijaiseva Kalkkikallio on kaunis pieni cragi ilmaisella topolla. Paikalta löytyy boulderien lisäksi useampi Vantaan muutamista luolista!"
   location: "Vantaa"
+  publish_date: ""
 
 synttarikallio:
   name: "Synttärikallio"
@@ -57,6 +62,7 @@ synttarikallio:
   grade_range: "6A - 7B+"
   description: "Pieni sijainti reittien määrän puolesta, mutta täältä löytyy aivan massiivisen hyviä ja vaikeita reittejä fotogeenisellä hänkillä. Nam!"
   location: "Vantaa"
+  publish_date: ""
 
   #vukryn juttuja
 
