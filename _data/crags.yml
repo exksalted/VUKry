@@ -21,7 +21,7 @@ kaarmekallio:
   sport_grade_range: "3 - 5+"
   trad_routes: "6"
   trad_grade_range: "3+ - 4+"
-  description: "Täydellinen sijainti aloittelevalle köysikiipeilijälle! Matalat seinät, erittäin kiltillä määrällä positiivista kulmaa."
+  description: "Täydellinen sijainti aloittelevalle köysikiipeilijälle! Matalahkot seinät erittäin lähestyttävällä släbillä ja hyvillä otteilla."
   location: "Vantaa"
   publish_date: ""
 
@@ -57,7 +57,7 @@ sipoonkorpi:
   url: "https://27crags.com/crags/sotunki"
   image: "images/cragpics/sipoo.jpg"
   premium: true
-  boulder_routes: "125"
+  boulder_routes: "144"
   boulder_grade_range: "4 - 8A+"
   trad_routes: "2"
   trad_grade_range: "5+ & 6b"
@@ -95,17 +95,6 @@ aurinkomaki:
   boulder_routes: "24"
   boulder_grade_range: "5+ - 7A"
   description: "Aurinkomäki on suhteellisen hiljattain kehitetty sijainti Hakunilan paikkeilla. Kauniita korkeita seiniä ja hyvälaatuisia reittejä. Kokeile!"
-  location: "Vantaa"
-  publish_date: ""
-
-kalkkivuori:
-  name: "Kalkkivuori"
-  url: "https://27crags.com/crags/kalkkivuori"
-  image: "images/cragpics/kalkkivuori.png"
-  premium: false
-  boulder_routes: "16"
-  boulder_grade_range: "3 - 7C"
-  description: "Kauniilla luonnonsuojelualueella sijaiseva Kalkkikallio on kaunis pieni cragi ilmaisella topolla. Paikalta löytyy boulderien lisäksi useampi luola!"
   location: "Vantaa"
   publish_date: ""
 
@@ -229,7 +218,7 @@ palokalliot:
   location: "Vantaa"
   publish_date: "2025 Elokuussa"
   boulder_routes: "22"
-  boulder_grade_range: "3 - 6C+"
+  boulder_grade_range: "3 - 6C"
   description: "Upea sijainti keskellä kaunista Sipoonkorpea. Näiden pienien kallioiden seinille kätkeytyy useampikin laadukas reitti!"
 
 vaarala:
